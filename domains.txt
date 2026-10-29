@@ -108,3 +108,6 @@ googlevideo.com
 www.googlevideo.com
 ytimg.com
 i.ytimg.com
+youtubei.googleapis.com
+youtube.googleapis.com
+youtubeembeddedplayer.googleapis.com
