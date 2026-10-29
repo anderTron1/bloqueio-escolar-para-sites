@@ -111,3 +111,8 @@ i.ytimg.com
 youtubei.googleapis.com
 youtube.googleapis.com
 youtubeembeddedplayer.googleapis.com
+
+proxyium.com
+www.proxyium.com
+newgrounds.com
+www.newgrounds.com
